@@ -33,3 +33,9 @@ dist
 
 # Settings for bots
 settings.json
+
+# TypeORM configuration
+ormconfig.json
+
+# Database file
+database.sqlite
